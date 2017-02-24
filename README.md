@@ -1,6 +1,7 @@
-# React Accounts UI
+# React Accounts UI - GraphQL
 
-Current version 1.2.19
+Current version 1.0.0
+Forked from version 1.2.19
 
 ## Features
 
