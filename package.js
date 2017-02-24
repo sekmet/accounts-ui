@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'std:accounts-ui',
-  version: '1.2.19',
-  summary: 'Accounts UI for React in Meteor 1.3+',
-  git: 'https://github.com/studiointeract/accounts-ui',
+  name: 'skt:accounts-ui',
+  version: '1.0.0',
+  summary: 'Accounts UI for React in Meteor 1.4+',
+  git: 'https://github.com/sekmet/accounts-ui',
   documentation: 'README.md'
 });
 
